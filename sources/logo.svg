@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="184.951mm"
+   height="107.71815mm"
+   viewBox="0 0 184.951 107.71815"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3 (3d30108, 2023-07-24)"
+   sodipodi:docname="bonesLogo.svg"
+   inkscape:export-filename="/home/harsulin/gameDev/bones/bonesLogo1.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">Bones Logo</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.94786756"
+     inkscape:cx="384.54739"
+     inkscape:cy="251.08993"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="-5"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer4"
+     inkscape:snap-global="false"
+     width="211mm"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8998">
+      <stop
+         style="stop-color:#0a0a0a;stop-opacity:1"
+         offset="0"
+         id="stop8994" />
+      <stop
+         style="stop-color:#282828;stop-opacity:0.99607843"
+         offset="1"
+         id="stop8996" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient28614">
+      <stop
+         style="stop-color:#b0925e;stop-opacity:1;"
+         offset="0"
+         id="stop28610" />
+      <stop
+         style="stop-color:#b0925e;stop-opacity:0;"
+         offset="1"
+         id="stop28612" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient12710">
+      <stop
+         style="stop-color:#ffa641;stop-opacity:1"
+         offset="0"
+         id="stop12706" />
+      <stop
+         style="stop-color:#a65a00;stop-opacity:0.08235294"
+         offset="1"
+         id="stop12708" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12710"
+       id="radialGradient11211-2"
+       cx="318.32861"
+       cy="188.7314"
+       fx="318.32861"
+       fy="188.7314"
+       r="2.9779177"
+       gradientTransform="matrix(1.5182233,-0.0209406,0.02700479,1.957887,-170.13819,-174.7499)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient28614"
+       id="linearGradient28616"
+       x1="316.94189"
+       y1="205.91708"
+       x2="332.5773"
+       y2="193.90497"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8998"
+       id="radialGradient9000"
+       cx="320.12152"
+       cy="186.55609"
+       fx="320.12152"
+       fy="186.55609"
+       r="10.469793"
+       gradientTransform="matrix(0.83290374,0.0071899,-0.00776193,0.89916808,55.077494,16.645944)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="Outline"
+     style="display:none"
+     transform="translate(-170.97276,-126.5446)">
+    <path
+       style="fill:#345076;fill-opacity:1;stroke:#000000;stroke-width:0.217586px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 154.4057,208.87199 c -0.91321,13.44411 3.89261,17.65271 16.35321,9.49977 10.32165,-12.75998 20.9569,-25.28658 24.21766,-43.30104 6.68625,-1.60576 21.94477,7.20001 41.26885,20.94367 0.266,8.766 2.9002,13.22948 6.06223,16.73395 9.43013,1.6051 18.72919,0.91818 27.7457,-4.70944 l 12.06396,-9.57471 c 33.11411,9.30412 47.67242,0.29713 65.025,-13.44443 0.81171,-5.01145 1.6196,-10.02313 -2.67006,-15.33788 4.9895,-8.71418 -0.19252,-15.65731 -2.40172,-23.11805 C 324.1031,126.84052 311.75489,125.11652 289.60335,128.8034 274.77801,87.835256 271.38146,90.905118 250.99052,77.860048 c -6.26752,-1.093966 -6.6499,3.395341 -7.57755,7.367342 4.52525,15.11341 11.1121,30.5921 10.144,44.73218 -24.22737,-4.85346 -42.39332,4.52068 -62.62024,9.05724 -8.93658,-16.62125 -3.77836,-27.363 -31.11724,-38.21008 -12.00426,-4.2404 -15.93751,-0.1302 -18.11654,5.79497 5.85228,14.8627 19.29053,43.85221 19.71008,49.60833 1.16059,3.33277 1.33972,6.82914 0.19725,10.54583 0.108,16.07077 -3.60088,29.05087 -7.20458,42.11613 z"
+       id="path27840"
+       sodipodi:nodetypes="cccccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:label="Skull"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-170.97276,-126.5446)">
+    <path
+       style="fill:#d0b689;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 354.61538,203.96989 c -5.8622,21.6503 -43.26859,16.99469 -55.02732,1.98988 -3.09782,-4.49849 -0.97314,-12.87829 2.38529,-20.54813 9.70584,-3.04544 15.3894,-17.52453 19.87928,-18.92792 12.48688,-2.62453 35.95325,23.58338 32.76275,37.48617 z"
+       id="path877-9"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/harsulin/gameDev/bones/bonesLogo2.png"
+       inkscape:export-xdpi="80.285797"
+       inkscape:export-ydpi="80.285797" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Ribs"
+     style="display:inline"
+     transform="translate(-170.97276,-126.5446)">
+    <path
+       style="display:inline;fill:#d0b689;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 293.01935,192.68867 c -3.29755,13.02017 -11.63225,20.35778 -20.02456,27.85216 -3.2514,1.10657 -4.19959,-0.49553 -3.81309,-3.36574 8.39798,-6.40481 12.55563,-15.51257 16.9967,-27.58114 1.24858,-2.71182 7.09244,-2.65652 6.84095,3.09472 z"
+       id="path26598-1"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/harsulin/gameDev/bones/bonesLogo2.png"
+       inkscape:export-xdpi="80.285797"
+       inkscape:export-ydpi="80.285797" />
+    <path
+       style="display:inline;fill:#d0b689;fill-opacity:1;stroke:#000000;stroke-width:1.77803;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 273.38166,190.29952 c -3.0514,11.54414 -10.52831,17.99022 -18.05786,24.57513 -2.90059,0.95374 -3.72875,-0.47921 -3.35871,-3.02717 7.52457,-5.61628 11.30451,-13.67447 15.36371,-24.36211 1.13493,-2.39921 6.32944,-2.29619 6.05286,2.81415 z"
+       id="path26598-1-2"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/harsulin/gameDev/bones/bonesLogo2.png"
+       inkscape:export-xdpi="80.285797"
+       inkscape:export-ydpi="80.285797" />
+    <path
+       style="display:inline;fill:#d0b689;fill-opacity:1;stroke:#000000;stroke-width:1.55122;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 253.62591,188.73921 c -2.57355,10.09455 -9.047,15.77546 -15.56532,21.57789 -2.52317,0.85428 -3.25665,-0.38948 -2.95337,-2.61517 6.52141,-4.95735 9.75726,-12.01633 13.21658,-21.37139 0.97171,-2.10178 5.50422,-2.05173 5.30211,2.40867 z"
+       id="path26598-1-2-9"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/harsulin/gameDev/bones/bonesLogo2.png"
+       inkscape:export-xdpi="80.285797"
+       inkscape:export-ydpi="80.285797" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="Tail Fin"
+     transform="translate(-170.97276,-126.5446)">
+    <path
+       style="fill:#d0b689;fill-opacity:1;stroke:#000000;stroke-width:1.70228;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 210.81834,198.87646 c 3.68003,-0.0588 4.08977,0.84534 5.36719,3.69829 4.53176,11.92882 -1.50012,22.04808 -5.5097,27.19082 -4.06985,4.89418 -7.9649,5.18785 -10.21923,-1.12814 -0.69297,-9.81797 0.88338,-16.63973 -3.64671,-24.87831 -1.67978,-2.3345 -1.85925,-3.88014 -0.62094,-4.6804 z"
+       id="path24434-2-3-8"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/harsulin/gameDev/bones/bonesLogo2.png"
+       inkscape:export-xdpi="80.285797"
+       inkscape:export-ydpi="80.285797" />
+    <path
+       style="fill:#d0b689;fill-opacity:1;stroke:#000000;stroke-width:1.70228;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 203.10787,183.89587 c 2.34372,-2.83777 1.8934,-3.72233 0.46262,-6.50154 -6.48786,-10.98822 -18.15837,-12.59533 -24.67896,-12.67464 -6.36408,0.12297 -9.02559,2.98201 -5.49982,8.68663 7.23609,6.67173 13.54881,9.70001 17.15532,18.38272 0.77457,2.76975 1.8698,3.87504 3.26811,3.40751 z"
+       id="path24434-2-3-8-9"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/harsulin/gameDev/bones/bonesLogo2.png"
+       inkscape:export-xdpi="80.285797"
+       inkscape:export-ydpi="80.285797" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Vertabrea"
+     transform="translate(-170.97276,-126.5446)">
+    <path
+       style="fill:#d0b689;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 296.94321,172.04113 c 4.73239,5.80263 1.01717,10.50205 -1.25693,13.63223 -7.68268,-2.35671 -15.5353,-3.61475 -24.10492,-2.4033 -1.0372,-4.14633 -2.87323,-10.24301 2.16578,-15.00312 7.41053,2.62291 15.37302,4.04795 23.19606,3.77418 z"
+       id="path21771-3-3-6"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/harsulin/gameDev/bones/bonesLogo2.png"
+       inkscape:export-xdpi="80.285797"
+       inkscape:export-ydpi="80.285797" />
+    <path
+       style="fill:#d0b689;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 260.46772,168.57005 c 5.26827,3.93568 3.10406,8.73115 1.83338,11.88257 -7.04782,-0.37113 -14.00634,0.22994 -21.04962,3.08784 -1.76707,-3.31176 -4.63027,-8.11501 -1.35111,-13.2442 6.87265,0.65585 13.96036,0.17371 20.56735,-1.72621 z"
+       id="path21771-3-3-7-0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/harsulin/gameDev/bones/bonesLogo2.png"
+       inkscape:export-xdpi="80.285797"
+       inkscape:export-ydpi="80.285797" />
+    <path
+       style="fill:#d0b689;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 227.18422,174.38704 c 5.42505,1.46637 5.21689,5.95766 5.20051,8.86143 -5.7155,1.92588 -11.05371,4.59595 -15.74817,9.08547 -2.44721,-2.07395 -6.23511,-4.98733 -5.24642,-10.09503 5.66605,-1.64454 11.14436,-4.26083 15.79408,-7.85187 z"
+       id="path21771-3-3-7-5-6"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/harsulin/gameDev/bones/bonesLogo2.png"
+       inkscape:export-xdpi="80.285797"
+       inkscape:export-ydpi="80.285797" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Dorsal Fin"
+     style="display:inline"
+     transform="translate(-170.97276,-126.5446)">
+    <path
+       style="fill:#d0b689;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 279.43646,162.57573 c 4.77911,0.36269 5.01369,-0.52141 5.73388,-3.31263 1.96421,-11.73736 -9.14383,-22.50757 -16.01026,-28.0589 -5.49344,-3.96818 -11.82248,-5.83408 -12.84954,0.30371 2.3114,9.91049 6.57915,16.96602 3.4114,24.95704 -1.41002,2.23173 -1.13707,3.78616 0.72603,4.70058 z"
+       id="path24434-26"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/harsulin/gameDev/bones/bonesLogo2.png"
+       inkscape:export-xdpi="80.285797"
+       inkscape:export-ydpi="80.285797" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Pectoral Fin"
+     transform="translate(-170.97276,-126.5446)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="Shading"
+     style="display:inline"
+     transform="translate(-170.97276,-126.5446)">
+    <path
+       style="fill:#b0925e;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 242.51721,181.07958 c 4.92981,-1.78265 11.32346,-3.392 17.5921,-2.86077 1.42477,-2.08504 2.17598,-4.24401 0.31846,-6.68933 -3.9241,7.13418 -11.68622,5.23223 -17.84196,7.28524 -1.46037,1.02049 -0.65814,1.62303 -0.0686,2.26486 z"
+       id="path3668"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/harsulin/gameDev/bones/bonesLogo2.png"
+       inkscape:export-xdpi="80.285797"
+       inkscape:export-ydpi="80.285797" />
+    <path
+       style="fill:#b0925e;fill-opacity:1;stroke:none;stroke-width:0.300938px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 273.99561,180.91827 c 5.94293,-0.48299 13.44055,-0.3383 20.16121,2.11819 2.18675,-1.86239 3.65641,-4.00721 2.34872,-7.24594 -6.43863,6.65653 -14.38864,2.24941 -21.75775,2.66271 -1.90766,0.68347 -1.20735,1.58448 -0.75218,2.46504 z"
+       id="path3668-2"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/harsulin/gameDev/bones/bonesLogo2.png"
+       inkscape:export-xdpi="80.285797"
+       inkscape:export-ydpi="80.285797" />
+    <path
+       style="fill:#b0925e;fill-opacity:1;stroke:none;stroke-width:0.228948px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 216.5621,189.79922 c 3.45665,-2.93745 8.15241,-6.17754 13.39483,-7.64454 0.5238,-2.12153 0.47921,-4.09909 -1.76685,-5.51905 -1.02136,6.97117 -7.88939,7.77913 -12.258,11.30684 -0.87491,1.26934 -0.0422,1.51492 0.63002,1.85675 z"
+       id="path3668-0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/harsulin/gameDev/bones/bonesLogo2.png"
+       inkscape:export-xdpi="80.285797"
+       inkscape:export-ydpi="80.285797" />
+    <path
+       style="fill:url(#linearGradient28616);fill-opacity:1;stroke:none;stroke-width:1.76883;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 351.41382,203.11898 c -5.18461,19.14782 -38.26733,15.03034 -48.66691,1.75987 -2.73975,-3.97852 -0.86066,-11.38973 2.10958,-18.17304 8.58398,-2.69344 13.6106,-15.49895 17.58151,-16.74012 11.04357,-2.32117 31.79755,20.85747 28.97582,33.15329 z"
+       id="path877-9-9"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/harsulin/gameDev/bones/bonesLogo2.png"
+       inkscape:export-xdpi="80.285797"
+       inkscape:export-ydpi="80.285797" />
+    <path
+       style="fill:#b0925e;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 280.98584,156.38809 c 3.20077,4.21931 1.18984,3.49622 -0.13332,3.59988 l -16.42168,-1.47543 c -1.58524,-0.21979 -2.23033,-0.32962 -1.90034,-1.74372 3.80396,-6.28017 -2.90892,-23.28997 -4.04174,-25.05617 0.97172,-1.07287 3.5561,1.01329 3.79928,2.52662 1.87321,7.61902 10.07379,25.05626 18.6978,22.14882 z"
+       id="path29129"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/harsulin/gameDev/bones/bonesLogo2.png"
+       inkscape:export-xdpi="80.285797"
+       inkscape:export-ydpi="80.285797" />
+    <path
+       style="display:inline;fill:#b0925e;fill-opacity:1;stroke:none;stroke-width:0.219967px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 212.40909,200.8271 -12.47818,0.16032 c -1.54088,-0.12658 -2.43022,0.19888 -2.02127,1.1244 5.35557,3.69782 4.39315,23.84419 4.29225,25.93132 0.80396,1.50529 2.1337,-0.4728 2.46997,-1.82946 -1.07936,-15.00913 0.62813,-25.25654 9.39611,-22.77418 1.11173,-0.27431 -0.54747,-2.41709 -1.65888,-2.6124 z"
+       id="path29129-3-6-3"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/harsulin/gameDev/bones/bonesLogo2.png"
+       inkscape:export-xdpi="80.285797"
+       inkscape:export-ydpi="80.285797" />
+    <path
+       style="display:inline;fill:#b0925e;fill-opacity:1;stroke:none;stroke-width:0.219967px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 194.75015,191.09633 c 2.40843,-2.96332 6.66773,-8.46738 6.66773,-8.46738 0.58449,-0.72271 1.3343,-1.77086 1.17527,-2.46507 -2.25212,-6.72931 -12.36248,-13.72197 -23.06547,-13.81161 -1.68024,-0.29837 -0.5384,1.1278 0.51023,1.09189 18.71298,4.93145 19.08727,13.97973 12.73001,22.20232 -0.47147,1.04351 0.15238,3.32197 0.99284,2.56898 0,0 0.67535,-0.73274 0.98939,-1.11913 z"
+       id="path29129-3-6-3-7"
+       sodipodi:nodetypes="sccccccs"
+       inkscape:export-filename="/home/harsulin/gameDev/bones/bonesLogo2.png"
+       inkscape:export-xdpi="80.285797"
+       inkscape:export-ydpi="80.285797" />
+    <path
+       style="display:inline;fill:#b0925e;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 271.78379,218.76614 c -0.25628,0.21137 -0.30258,0.98094 0.49816,0.48255 9.06232,-7.34826 16.49472,-16.17472 19.32195,-26.82981 0.14029,-2.34929 -0.95749,-2.33084 -2.65973,0.29947 -2.46977,11.0259 -9.32411,19.51818 -17.16038,26.04779 z"
+       id="path32137"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/harsulin/gameDev/bones/bonesLogo2.png"
+       inkscape:export-xdpi="80.285797"
+       inkscape:export-ydpi="80.285797" />
+    <path
+       style="display:inline;fill:#b0925e;fill-opacity:1;stroke:none;stroke-width:0.235218px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 254.26361,213.28585 c -0.22977,0.18555 -0.27801,0.86924 0.4384,0.43357 8.12383,-6.44886 14.81234,-14.22679 17.42385,-23.67278 0.14636,-2.08714 -0.8297,-2.08085 -2.36719,0.24146 -2.29717,9.7789 -8.46871,17.2651 -15.49509,22.99749 z"
+       id="path32137-8"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/harsulin/gameDev/bones/bonesLogo2.png"
+       inkscape:export-xdpi="80.285797"
+       inkscape:export-ydpi="80.285797" />
+    <path
+       style="display:inline;fill:#b0925e;fill-opacity:1;stroke:none;stroke-width:0.205213px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 237.12349,208.93916 c -0.19903,0.16363 -0.23587,0.76044 0.38579,0.37488 7.03781,-5.6883 12.81325,-12.52507 15.01912,-20.78581 0.11169,-1.82194 -0.73978,-1.80898 -2.06329,0.2288 -1.92908,8.54876 -7.25576,15.12706 -13.34165,20.1819 z"
+       id="path32137-8-7"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/harsulin/gameDev/bones/bonesLogo2.png"
+       inkscape:export-xdpi="80.285797"
+       inkscape:export-ydpi="80.285797" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Nostril"
+     transform="translate(-170.97276,-126.5446)">
+    <path
+       style="fill:#d0b689;fill-opacity:1;stroke:#000000;stroke-width:1.24017;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 347.06673,192.8068 c -1.4446,4.45392 -1.56426,8.40092 2.87288,10.60378"
+       id="path14680-0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/harsulin/gameDev/bones/bonesLogo2.png"
+       inkscape:export-xdpi="80.285797"
+       inkscape:export-ydpi="80.285797" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.24017;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 346.57987,195.67784 c 2.2922,-0.32319 3.05741,3.26654 2.18506,6.47688"
+       id="path14682-9"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/harsulin/gameDev/bones/bonesLogo2.png"
+       inkscape:export-xdpi="80.285797"
+       inkscape:export-ydpi="80.285797" />
+    <path
+       style="display:inline;fill:#b0925e;fill-opacity:1;stroke:none;stroke-width:1.9937;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1310.8186,741.78379 c -0.8557,6.65882 0.087,14.02771 4.7506,19.18008 0.2918,0.67942 1.1065,0.66507 1.0874,-0.15145 0.8669,-5.72329 1.234,-12.20268 -2.1486,-17.22822 -0.8233,-1.11177 -2.3566,-2.11003 -3.6894,-1.80041 z"
+       id="path10501"
+       transform="scale(0.26458333)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Jaw"
+     transform="translate(-170.97276,-126.5446)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 341.02201,217.29601 c -12.83384,-1.21864 -21.51867,-4.97706 -26.37308,-11.08024"
+       id="path9631"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/harsulin/gameDev/bones/bonesLogo2.png"
+       inkscape:export-xdpi="80.285797"
+       inkscape:export-ydpi="80.285797" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Eye Socket"
+     style="display:inline"
+     transform="translate(-170.97276,-126.5446)">
+    <path
+       style="fill:url(#radialGradient9000);fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 323.18525,177.18078 c 6.43764,0.79861 7.6305,7.97548 7.02636,12.99567 -4.63959,14.07718 -15.62607,8.19555 -18.74746,1.24582 -0.68933,-6.60244 5.87073,-12.20923 11.7211,-14.24149 z"
+       id="path8532-3"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/harsulin/gameDev/bones/bonesLogo2.png"
+       inkscape:export-xdpi="80.285797"
+       inkscape:export-ydpi="80.285797" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="Pupil"
+     style="display:inline"
+     transform="translate(-170.97276,-126.5446)">
+    <ellipse
+       style="fill:#e37b00;fill-opacity:0.998432;stroke:none;stroke-width:2.26302;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path9950"
+       cx="318.25241"
+       cy="188.09885"
+       rx="2.9779177"
+       ry="4.0031114"
+       inkscape:export-filename="/home/harsulin/gameDev/bones/bonesLogo2.png"
+       inkscape:export-xdpi="80.285797"
+       inkscape:export-ydpi="80.285797" />
+    <ellipse
+       style="fill:url(#radialGradient11211-2);fill-opacity:1;stroke:none;stroke-width:3.38311;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path9950-5"
+       cx="318.25241"
+       cy="188.09885"
+       rx="4.4518523"
+       ry="5.9844708"
+       inkscape:export-filename="/home/harsulin/gameDev/bones/bonesLogo2.png"
+       inkscape:export-xdpi="80.285797"
+       inkscape:export-ydpi="80.285797" />
+  </g>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Bones Logo</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Aaron Haws</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>© 2023 All Rights Reserved.</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:description>All contributors grant the fishfolk organization a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
